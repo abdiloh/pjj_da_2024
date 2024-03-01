@@ -1,89 +1,89 @@
-No;TAHUN;KDDEPT;NMDEPT;NMSATKER;KDSATKER;KATEGORI;TEMUAN;NILAI
+No;TAHUN;KDDEPT;NMDEPT;NMSATKER;KDSATKER;KATEGORI;TEMUAN;NILAI;
 1;2022;5;005  MAHKAMAH AGUNG;Pengadilan Negeri (PN) Kuala Kurun;402024;TERLAMBAT;"Penyetoran PNBP Teknis/Fungsional dari Kasir tidak langsung disetorkan ke
-Kas Negara oleh Bendahara Penerimaan, namun dikompilasi terlebih dahulu";86667
+Kas Negara oleh Bendahara Penerimaan, namun dikompilasi terlebih dahulu";86667;
 2;2022;5;005  MAHKAMAH AGUNG;Pengadilan Agama (PA) Tulang Bawang Tengah;403416;TERLAMBAT;"Penyetoran PNBP Teknis/Fungsional dari Kasir tidak langsung disetorkan ke
-Kas Negara oleh Bendahara Penerimaan, namun dikompilasi terlebih dahulu";86667
+Kas Negara oleh Bendahara Penerimaan, namun dikompilasi terlebih dahulu";86667;
 3;2022;5;005  MAHKAMAH AGUNG;PA Pringsewu;403414;TERLAMBAT;"Penyetoran PNBP Teknis/Fungsional dari Kasir tidak langsung disetorkan ke
-Kas Negara oleh Bendahara Penerimaan, namun dikompilasi terlebih dahulu";86667
+Kas Negara oleh Bendahara Penerimaan, namun dikompilasi terlebih dahulu";86667;
 4;2022;19;019  KEMENTERIAN PERINDUSTRIAN;SMK-SMTI Makassar;579336;TERLAMBAT;"penyetoran PNBP yang dilaksanakan oleh Bendahara Penerimaan atas
 PNBP yang diterima secara tunai tidak seluruhnya dilakukan setiap
 akhir hari kerja saat PNBP diterima. Penyetoran PNBP mengalami
-keterlambatan 1 s.d. 103 hari ";0
-5;2022;2;002  DEWAN PERWAKILAN RAKYAT;WISMA DPR;1012;TERLAMBAT;"terdapat keterlambatan penyetoran Penerimaan wisma ke kas negara
-dengan rentang waktu antara 3 s.d. 10 hari kerja dengan total nilai pendapatan sewa sebesar Rp14.062.500";14062500
-6;2022;11;011  KEMENTERIAN LUAR NEGERI;KJRI Hamburg;403491;TERLAMBAT;Selama tahun 2022 KJRI Hamburg tidak tertib dalam penyetoran PNBP dan terdapat keterlambatan penyetoran berkisar 1 s.d 11 bulan;0
+keterlambatan 1 s.d. 103 hari ";0;
+5;2022;2;002  DEWAN PERWAKILAN RAKYAT;WISMA DPR;001012;TERLAMBAT;"terdapat keterlambatan penyetoran Penerimaan wisma ke kas negara
+dengan rentang waktu antara 3 s.d. 10 hari kerja dengan total nilai pendapatan sewa sebesar Rp14.062.500";14062500;
+6;2022;11;011  KEMENTERIAN LUAR NEGERI;KJRI Hamburg;403491;TERLAMBAT;Selama tahun 2022 KJRI Hamburg tidak tertib dalam penyetoran PNBP dan terdapat keterlambatan penyetoran berkisar 1 s.d 11 bulan;;
 7;2022;90;090  KEMENTERIAN PERDAGANGAN;Balai Besar Pendidikan dan Pelatihan Ekspor Indonesia;547931;TERLAMBAT;"Keterlambatan Penyetoran PNBP pada Balai Sertifikasi, Balai Pengujian Alat Ukur, Alat Takar, Alat Timbang, dan Alat Perlengkapan, dan Balai Besar Pendidikan dan Pelatihan Ekspor Indonesia Sebesar
-Rp814.777.100,00 ";814777100
+Rp814.777.100,00 ";814777100;
 8;2022;87;087  ARSIP NASIONAL REPUBLIK INDONESIA;Pusdiklat dan Jasa Kearsipan;418934;TERLAMBAT;"Penerimaan Negara Bukan Pajak (PNBP) Tahun 2022 Terlambat Disetor ke Kas
-Negara";1122580000
-9;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor UPP Kelas III Kuala Semboja;413426;TERLAMBAT;Hasil pemeriksaan terhadap pembayaran PNBP penggunaan perairan diketahui keterlambatan pembayaran;4320000
-10;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor UPP Kelas III Sangkulirang;289822;TERLAMBAT;Hasil pemeriksaan terhadap pembayaran PNBP penggunaan perairan diketahui keterlambatan pembayaran;12374050
-11;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas IV Pulang Pisau;287143;TERLAMBAT;Hasil pemeriksaan terhadap pembayaran PNBP penggunaan perairan diketahui keterlambatan pembayaran;22194200
-12;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Banten;413670;TERLAMBAT;Hasil pemeriksaan terhadap pembayaran PNBP penggunaan perairan diketahui keterlambatan pembayaran;136977389
-13;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas III Tanjung Wangi;413730;TERLAMBAT;Hasil pemeriksaan terhadap pembayaran PNBP pendapatan konsesi diketahui keterlambatan pembayaran;4255461
-14;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas III Kupang;522582;TERLAMBAT;Hasil pemeriksaan terhadap pembayaran PNBP pendapatan konsesi diketahui keterlambatan pembayaran;8353172
+Negara";1122580000;
+9;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor UPP Kelas III Kuala Semboja;413426;TERLAMBAT;Hasil pemeriksaan terhadap pembayaran PNBP penggunaan perairan diketahui keterlambatan pembayaran;4320000;
+10;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor UPP Kelas III Sangkulirang;289822;TERLAMBAT;Hasil pemeriksaan terhadap pembayaran PNBP penggunaan perairan diketahui keterlambatan pembayaran;12374050;
+11;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas IV Pulang Pisau;287143;TERLAMBAT;Hasil pemeriksaan terhadap pembayaran PNBP penggunaan perairan diketahui keterlambatan pembayaran;22194200;
+12;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Banten;413670;TERLAMBAT;Hasil pemeriksaan terhadap pembayaran PNBP penggunaan perairan diketahui keterlambatan pembayaran;136977389;
+13;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas III Tanjung Wangi;413730;TERLAMBAT;Hasil pemeriksaan terhadap pembayaran PNBP pendapatan konsesi diketahui keterlambatan pembayaran;4255461;
+14;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas III Kupang;522582;TERLAMBAT;Hasil pemeriksaan terhadap pembayaran PNBP pendapatan konsesi diketahui keterlambatan pembayaran;8353172;
 15;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor UPBU Mozes Kilangin Timika;466272;TERLAMBAT;" Pada Kantor UPBU Mozes Kilangin Timika surat penagihan yang
-diterbitkan lebih dari 17 hari setelah pelayanan diberikan (sudah dibayarkan)";0
+diterbitkan lebih dari 17 hari setelah pelayanan diberikan (sudah dibayarkan)";0;
 16;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor UPBU Mopah Merauke;288571;TERLAMBAT;"Kantor UPBU Mopah Merauke
-lebih dari 10 hari setelah pelayanan (sudah dibayarkan)";0
+lebih dari 10 hari setelah pelayanan (sudah dibayarkan)";0;
 17;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor UPBU Rendani Manokwar;288571;TERLAMBAT;" Kantor UPBU Rendani Manokwari lebih dari 30
-hari setelah pelayanan (sudah dibayarkan)";0
-18;2022;83;083  BADAN INFORMASI GEOSPASIAL (BIG);big;17216;TERLAMBAT;"a. Waktu Pembayaran Termin I dan II Kontrak Swakelola dengan Pemerintah Kota Tanjungbalai tidak sesuai ketentuan kontrak;
+hari setelah pelayanan (sudah dibayarkan)";0;
+18;2022;83;083  BADAN INFORMASI GEOSPASIAL (BIG);big;017216;TERLAMBAT;"a. Waktu Pembayaran Termin I dan II Kontrak Swakelola dengan Pemerintah Kota Tanjungbalai tidak sesuai ketentuan kontrak;
 b. Kontrak tidak mengatur klausul tentang konsekuensi atas pembayaran melewati batas waktu yang diperjanjikan;
-c. Beberapa Klausul pada Dokumen Kontrak dan Dokumen Pendukungnya Salah Penulisan yang Dapat Berpotensi Perbedaan Penafsiran";300167500
-19;2022;10;010  KEMENTERIAN DALAM NEGERI;Ditjen Bina Bangda;39729;TERLAMBAT;PNBP Tidak Disetorkan pada Hari yang Sama: Sewa Gedung untuk Pernikahan, Koperasi dan Kantin;0
-20;2022;10;010  KEMENTERIAN DALAM NEGERI;IPDN Jatinangor;403200;TERLAMBAT;PNBP Tidak Disetorkan pada Hari yang Sama: Pendapatan Pendidikan Mahasiswa Pascasarjana;0
-21;2022;10;010  KEMENTERIAN DALAM NEGERI;Balai Pemdes Yogyakarta;28449;TERLAMBAT;PNBP Tidak Disetorkan pada Hari yang Sama: Balai Pemdes Yogyakarta;0
-22;2022;13;013  KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA RI;Ditjen PAS;409263;TERLAMBAT;Empat paket pekerjaan pada Direktorat Jenderal (Ditjen) Pemasyarakatan (PAS);1453198319
-23;2022;13;013  KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA RI;Ditjen KI;97102;TERLAMBAT;Satu paket pekerjaan pada Ditjen Kekayaan Intelektual (KI) sebesar;15300000
-24;2022;13;013  KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA RI;Ditjen Imigrasi;409272;TERLAMBAT;Keterlambatan Pekerjaan Pengadaan pada Dua paket pekerjaan pada Ditjen Imigrasi;287422000
-25;2022;13;013  KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA RI;Rutan Kelas IIB Dumai;408454;TERLAMBAT;Keterlambatan Pekerjaan Pengadaan pada Rutan Kelas IIB Dumai;34793142
+c. Beberapa Klausul pada Dokumen Kontrak dan Dokumen Pendukungnya Salah Penulisan yang Dapat Berpotensi Perbedaan Penafsiran";300167500;
+19;2022;10;010  KEMENTERIAN DALAM NEGERI;Ditjen Bina Bangda;039729;TERLAMBAT;PNBP Tidak Disetorkan pada Hari yang Sama: Sewa Gedung untuk Pernikahan, Koperasi dan Kantin;0;
+20;2022;10;010  KEMENTERIAN DALAM NEGERI;IPDN Jatinangor;403200;TERLAMBAT;PNBP Tidak Disetorkan pada Hari yang Sama: Pendapatan Pendidikan Mahasiswa Pascasarjana;0;
+21;2022;10;010  KEMENTERIAN DALAM NEGERI;Balai Pemdes Yogyakarta;028449;TERLAMBAT;PNBP Tidak Disetorkan pada Hari yang Sama: Balai Pemdes Yogyakarta;0;
+22;2022;13;013  KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA RI;Ditjen PAS;409263;TERLAMBAT;Empat paket pekerjaan pada Direktorat Jenderal (Ditjen) Pemasyarakatan (PAS);1453198319;
+23;2022;13;013  KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA RI;Ditjen KI;097102;TERLAMBAT;Satu paket pekerjaan pada Ditjen Kekayaan Intelektual (KI) sebesar;15300000;
+24;2022;13;013  KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA RI;Ditjen Imigrasi;409272;TERLAMBAT;Keterlambatan Pekerjaan Pengadaan pada Dua paket pekerjaan pada Ditjen Imigrasi;287422000;
+25;2022;13;013  KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA RI;Rutan Kelas IIB Dumai;408454;TERLAMBAT;Keterlambatan Pekerjaan Pengadaan pada Rutan Kelas IIB Dumai;34793142;
 26;2022;13;013  KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA RI;"Kantor Wilayah (Kanwil) Kemenkumham
-Sumatera Utara ";408763;TERLAMBAT;Keterlambatan Pekerjaan Pengadaan pada Dua paket pekerjaan;237537533
-27;2022;13;013  KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA RI;Kanwil Kemenkumham Riau;408803;TERLAMBAT;Dua paket pekerjaan di lingkungan Kanwil Kemenkumham Riau;2386646168
-28;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Polda Sulawesi Utara;679813;TERLAMBAT;Adanya ketidakdisiplinan dalam pengelolaan PNBP, dimana terdapat keterlambatan penyetoran PNBP atas jasa pamobvit ke Kas Negara oleh masing-masing satker;4096600000
-29;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Polda Metro Jaya;650971;TERLAMBAT;Adanya ketidakdisiplinan dalam pengelolaan PNBP, dimana terdapat keterlambatan penyetoran PNBP atas jasa pamobvit ke Kas Negara oleh masing-masing satker;1721973584
-30;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Polresta Banda Aceh ;640122;TERLAMBAT;Adanya ketidakdisiplinan dalam pengelolaan PNBP, dimana terdapat keterlambatan penyetoran PNBP atas jasa pamobvit ke Kas Negara oleh masing-masing satker;3015000000
+Sumatera Utara ";408763;TERLAMBAT;Keterlambatan Pekerjaan Pengadaan pada Dua paket pekerjaan;237537533;
+27;2022;13;013  KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA RI;Kanwil Kemenkumham Riau;408803;TERLAMBAT;Dua paket pekerjaan di lingkungan Kanwil Kemenkumham Riau;2386646168;
+28;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Polda Sulawesi Utara;679813;TERLAMBAT;Adanya ketidakdisiplinan dalam pengelolaan PNBP, dimana terdapat keterlambatan penyetoran PNBP atas jasa pamobvit ke Kas Negara oleh masing-masing satker;4096600000;
+29;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Polda Metro Jaya;650971;TERLAMBAT;Adanya ketidakdisiplinan dalam pengelolaan PNBP, dimana terdapat keterlambatan penyetoran PNBP atas jasa pamobvit ke Kas Negara oleh masing-masing satker;1721973584;
+30;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Polresta Banda Aceh ;640122;TERLAMBAT;Adanya ketidakdisiplinan dalam pengelolaan PNBP, dimana terdapat keterlambatan penyetoran PNBP atas jasa pamobvit ke Kas Negara oleh masing-masing satker;3015000000;
 31;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Polda Sulawesi Tengah;679834;TERLAMBAT;"Ditintelkam Polda Sulawesi Tengah maupun Satintelkam Polres Morowali, diketahui bahwa penyetoran PNBP dari penerbitan SKCK dilaksanakan sebulan sekali. Dimana
-operator SKCK akan menerima serta menyimpan dana PNBP terlebih dahulu baik yang diterima dari Polsek jajaran maupun yang diterima dari pelayanan di Polres, untuk kemudian disetor kepada Bendahara Satuan (Bensat) Polres Morowali tiap akhir bulan berjalan.";297570000
-32;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;BBPJN Jawa Tengah-D.I. Yogyakarta;35170;TERLAMBAT;Perusahaan pemanfaat penggunaan bagian-bagian jalan nasional terlambat menyetorkan biaya sewa ke Kas Negara sebesar Rp1.416.549.000;1416549000
-33;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Biro PBMN dan Biro Umum Sekretariat Jenderal;498488;TERLAMBAT;Keterlambatan Penyetoran PNBP pada Wisma Werdhapura dan Wisma Bima I dan II Sebesar Rp878.050.000,00;878050000
-34;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Politeknik Pekerjaan Umum;631187;TERLAMBAT;Uang Kuliah Tunggal (UKT) Mahasiswa Belum Diterima Sebesar Rp118.500.000,00;118500000
+operator SKCK akan menerima serta menyimpan dana PNBP terlebih dahulu baik yang diterima dari Polsek jajaran maupun yang diterima dari pelayanan di Polres, untuk kemudian disetor kepada Bendahara Satuan (Bensat) Polres Morowali tiap akhir bulan berjalan.";297570000;
+32;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;BBPJN Jawa Tengah-D.I. Yogyakarta;035170;TERLAMBAT;Perusahaan pemanfaat penggunaan bagian-bagian jalan nasional terlambat menyetorkan biaya sewa ke Kas Negara sebesar Rp1.416.549.000;1416549000;
+33;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Biro PBMN dan Biro Umum Sekretariat Jenderal;498488;TERLAMBAT;Keterlambatan Penyetoran PNBP pada Wisma Werdhapura dan Wisma Bima I dan II Sebesar Rp878.050.000,00;878050000;
+34;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Politeknik Pekerjaan Umum;631187;TERLAMBAT;Uang Kuliah Tunggal (UKT) Mahasiswa Belum Diterima Sebesar Rp118.500.000,00;118500000;
 35;2022;32;032  KEMENTERIAN KELAUTAN DAN PERIKANAN;Sekretaris Ditjen PRL;622145;TERLAMBAT;"Mitra Kerja Sama Pemanfaatan BMN di Pulau Nipa Kota Batam Terlambat
-Membayar Kontribusi Tetap Tahun 2022 ";2060100229
-36;2022;5;005  MAHKAMAH AGUNG;MS Aceh;401582;TERLAMBAT;Penatausahaan PNBP dari Sewa Rumah Dinas Belum Tertib;2500000
-37;2022;5;005  MAHKAMAH AGUNG;PN Jakarta Pusat;99063;TERLAMBAT;Belum diterimanya PNBP ;32500000
-38;2022;5;005  MAHKAMAH AGUNG;PN Malang;99152;TERLAMBAT;"Sewa Payment Point BTN dan sewa kantin pada PN Malang akibat nilai sewa
+Membayar Kontribusi Tetap Tahun 2022 ";2060100229;
+36;2022;5;005  MAHKAMAH AGUNG;MS Aceh;401582;TERLAMBAT;Penatausahaan PNBP dari Sewa Rumah Dinas Belum Tertib;2500000;
+37;2022;5;005  MAHKAMAH AGUNG;PN Jakarta Pusat;099063;TERLAMBAT;Belum diterimanya PNBP ;32500000;
+38;2022;5;005  MAHKAMAH AGUNG;PN Malang;099152;TERLAMBAT;"Sewa Payment Point BTN dan sewa kantin pada PN Malang akibat nilai sewa
 yang tidak sesuai SK KPKNL sebesar Rp22.864.800 (Rp6.218.400 +
-Rp16.646.400)";22864800
-39;2022;5;005  MAHKAMAH AGUNG;PN Jakarta Pusat;99063;TERLAMBAT;"Sewa PT BTN pada PN Jakarta Pusat untuk jangka waktu sewa yang tidak
+Rp16.646.400)";22864800;
+39;2022;5;005  MAHKAMAH AGUNG;PN Jakarta Pusat;099063;TERLAMBAT;"Sewa PT BTN pada PN Jakarta Pusat untuk jangka waktu sewa yang tidak
 sesuai SK Persetujuan Sewa sebesar Rp101.083.140 (Rp50.541.570/tahun x 2
-tahun);";101083140
-;2022;5;005  MAHKAMAH AGUNG;PN Jakarta Pusat;99063;TERLAMBAT;"Pemanfaatan BMN pada PN Malang dan PA Jakarta Pusat yang tidak
-menggunakan mekanisme sewa";0
-40;2022;5;005  MAHKAMAH AGUNG;PN Malang;99152;TERLAMBAT;"Pemanfaatan BMN pada PN Malang dan PA Jakarta Pusat yang tidak
-menggunakan mekanisme sewa";0
-41;2022;25;025  KEMENTERIAN AGAMA;Sekolah Tinggi Agama Hindu Negeri (STAHN) Mpu Kuturan Singaraja;418477;TERLAMBAT;;143182501
-42;2022;5;005  MAHKAMAH AGUNG;Mahkamah Syariah (MS) Aceh;401582;TERLAMBAT;Nilai sewa kantin Maqshaf Syar’I Tahun 2022 dan 2023 sebesar 2.500.000/tahun belum disetorkan.;5000000
+tahun);";101083140;
+;2022;5;005  MAHKAMAH AGUNG;PN Jakarta Pusat;099063;TERLAMBAT;"Pemanfaatan BMN pada PN Malang dan PA Jakarta Pusat yang tidak
+menggunakan mekanisme sewa";0;
+40;2022;5;005  MAHKAMAH AGUNG;PN Malang;099152;TERLAMBAT;"Pemanfaatan BMN pada PN Malang dan PA Jakarta Pusat yang tidak
+menggunakan mekanisme sewa";0;
+41;2022;25;025  KEMENTERIAN AGAMA;Sekolah Tinggi Agama Hindu Negeri (STAHN) Mpu Kuturan Singaraja;418477;TERLAMBAT;;143182501;
+42;2022;5;005  MAHKAMAH AGUNG;Mahkamah Syariah (MS) Aceh;401582;TERLAMBAT;Nilai sewa kantin Maqshaf Syar’I Tahun 2022 dan 2023 sebesar 2.500.000/tahun belum disetorkan.;5000000;
 43;2022;19;019  KEMENTERIAN PERINDUSTRIAN;SMK-SMTI Makassar;579336;KURANG PUNGUT;"Kesalahan Penerbitan Kode Billing atas Pungutan Penerimaan
-dari Sumbangan Pembinaan Pendidikan pada SMK-SMTI Makassar";549999
-44;2022;19;019  KEMENTERIAN PERINDUSTRIAN;ATI Makassar;579335;KURANG PUNGUT;Kurang pungut PNBP Pasca Semester VI pada Politeknik ATI Makassar;23400000
+dari Sumbangan Pembinaan Pendidikan pada SMK-SMTI Makassar";549999;
+44;2022;19;019  KEMENTERIAN PERINDUSTRIAN;ATI Makassar;579335;KURANG PUNGUT;Kurang pungut PNBP Pasca Semester VI pada Politeknik ATI Makassar;23400000;
 45;2022;25;025  KEMENTERIAN AGAMA;UIN Sumatera Utara;424007;KURANG PUNGUT;"pendapatan yang belum diterima pada rekening kas penerima BLU sebesar Rp55.710.000,00
 yang berasal dari kerja sama antara UIN Sumatera Utara dan Kopertais UIN
-Sumatera Utara.";55710000
-46;2022;25;025  KEMENTERIAN AGAMA;Kantor Kementerian Agama Kota Jakarta Barat;416362;KURANG PUNGUT;sewa oleh Bank BJB Syariah belum diterima sesuai perjanjian;108000000
-47;2022;25;025  KEMENTERIAN AGAMA;UIN Raden Fatah Palembang;424208;KURANG PUNGUT;UIN Raden Fatah Palembang belum mengenakan denda keterlambatan sebesar Rp15.519.825,00 kepada CV ZF;15519825
+Sumatera Utara.";55710000;
+46;2022;25;025  KEMENTERIAN AGAMA;Kantor Kementerian Agama Kota Jakarta Barat;416362;KURANG PUNGUT;sewa oleh Bank BJB Syariah belum diterima sesuai perjanjian;108000000;
+47;2022;25;025  KEMENTERIAN AGAMA;UIN Raden Fatah Palembang;424208;KURANG PUNGUT;UIN Raden Fatah Palembang belum mengenakan denda keterlambatan sebesar Rp15.519.825,00 kepada CV ZF;15519825;
 48;2022;25;025  KEMENTERIAN AGAMA;UIN Sultan Syarif Kasim Riau;424157;KURANG PUNGUT;"UIN Suska Riau telah mengajukan tagihan
 biaya sewa pada tanggal 16 Februari 2023 kepada PT Telkomsel sebesar
 Rp400.000.000,00. Sampai dengan pemeriksaan lapangan BPK berakhir, PT
-Telkomsel belum membayar tagihan tersebut";400000000
+Telkomsel belum membayar tagihan tersebut";400000000;
 49;2022;25;025  KEMENTERIAN AGAMA;UIN Raden Intan Lampung;424260;KURANG PUNGUT;"terdapat mahasiswa baru angkatan 2022
 penerima bantuan Kartu Indonesia Pintar Kuliah (KIP Kuliah) membayar UKT
-kurang dari nilai yang ditetapkan sebesar Rp154.450.000,00 ";154450000
-50;2022;25;025  KEMENTERIAN AGAMA;UIN Raden Fatah Palembang;424208;KURANG PUNGUT;masih terdapat kekurangan penerimaan UKT sebesar Rp568.099.750,00 atas selisih UKT awal dengan UKT bantuan pendidikan ;568099750
+kurang dari nilai yang ditetapkan sebesar Rp154.450.000,00 ";154450000;
+50;2022;25;025  KEMENTERIAN AGAMA;UIN Raden Fatah Palembang;424208;KURANG PUNGUT;masih terdapat kekurangan penerimaan UKT sebesar Rp568.099.750,00 atas selisih UKT awal dengan UKT bantuan pendidikan ;568099750;
 51;2022;25;025  KEMENTERIAN AGAMA;UIN Imam Bonjol Padang;424050;KURANG PUNGUT;"terdapat UKT mahasiswa pengganti yang belum disesuaikan dengan besaran UKT
-bantuan pendidikan";64990000
-52;2022;51;051  BADAN SIBER DAN SANDI NEGARA;Sekretariat Utama BSSN;427969;KURANG PUNGUT;kekurangan penyetoran PNBP dari pemindahtanganan BMN Lainnya;750000000
+bantuan pendidikan";64990000;
+52;2022;51;051  BADAN SIBER DAN SANDI NEGARA;Sekretariat Utama BSSN;427969;KURANG PUNGUT;kekurangan penyetoran PNBP dari pemindahtanganan BMN Lainnya;750000000;
 53;2022;117;117  TELEVISI REPUBLIK INDONESIA;Direktorat Pengembangan Usaha LPP TVRI;700200;KURANG PUNGUT;"Pengelolaan Pendapatan Negara Bukan Pajak pada Direktorat Pengembangan
 Usaha LPP TVRI Belum Optimal dan Terdapat Kekurangan Penerimaan PNBP atas Sewa Lahan dan/atau Bangunan LPP TVRI
 a. Pengelolaan PNBP Sewa Lahan belum didukung dengan Prosedur Operasional
@@ -97,56 +97,56 @@ Rp49.939.651
 d. Kekurangan penerimaan TA 2022 dan potensi kehilangan penerimaan sewa
 lahan untuk PT WM sebesar Rp5.875.302 dan Rp5.875.302
 e. Pengawasan dan Pengelolaan PNBP sewa slot saluran siaran digital belum
-optimal";76346533
+optimal";76346533;
 54;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor UPP Kelas III Kuala Semboja;413426;KURANG PUNGUT;"kekurangan pembayaran
-PNBP Penggunaan Perairan dari Koperasi Gerbang Petani Mandiri tahun 2022";21600000
-55;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Banten;413670;KURANG PUNGUT;Hasil pemeriksaan menunjukkan bahwa terdapat sembilan TUKS yang belum melakukan pembayaran PNBP Penggunaan Perairan;471080500
-56;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Dumai;413092;KURANG PUNGUT;Kekurangan penerimaan atas kesalahan klasifikasi pengenaan rambu yang seharusnya;14172953
-57;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Banten;413670;KURANG PUNGUT;Kekurangan penerimaan atas kesalahan klasifikasi pengenaan rambu yang seharusnya;61449283
-58;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Dumai;413092;KURANG PUNGUT;Kekurangan penerimaan atas kapal yang waktu kedatangan dan waktu berangkatnya lebih dari 30 hari namun hanya dipungut Jasa Uang Rambu satu kali;10515420
-59;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Tanjung Balai Karimun;999998;KURANG PUNGUT;Kekurangan penerimaan atas kapal yang waktu kedatangan dan waktu berangkatnya lebih dari 30 hari namun hanya dipungut Jasa Uang Rambu satu kali;10815750
-60;2022;22;022  KEMENTERIAN PERHUBUNGAN;KSOP Kelas I Banten ;413670;KURANG PUNGUT;Kekurangan penerimaan atas kapal yang waktu kedatangan dan waktu berangkatnya lebih dari 30 hari namun hanya dipungut Jasa Uang Rambu satu kali;397352764
-61;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Dumai;413092;KURANG PUNGUT;Kekurangan penerimaan atas kapal RPK liner;13540500
-62;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Tanjung Balai Karimun;413180;KURANG PUNGUT;Kekurangan penerimaan atas kapal RPK liner;48455000
-63;2022;22;022  KEMENTERIAN PERHUBUNGAN;KSU Belawan;999999;KURANG PUNGUT;Kekurangan penerimaan atas kapal RPK liner;145134750
-64;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Banten;413670;KURANG PUNGUT;Kekurangan penerimaan pada Kantor KSOP Kelas I Banten atas kapal RPK tramper;354365500
-65;2022;32;032  KEMENTERIAN KELAUTAN DAN PERIKANAN;Ditjen Perikanan Tangkap;238720;KURANG PUNGUT;Pengelolaan Pendapatan Perikanan pada Ditjen Perikanan Tangkap Belum Memadai dan Terdapat Kekurangan Penerimaan.;290803170
-66;2022;18;018  KEMENTERIAN PERTANIAN;BBPT Padi Sukamandi;237238;KURANG PUNGUT;Biaya pengusahaan air baku tahun 2020 - 2022 belum ditagihkan kepada mitra pengelola lahan sebesar Rp483.570.390,00 ;483570390
-67;2022;11;011  KEMENTERIAN LUAR NEGERI;KBRI Brussels;403350;TIDAK DIPUNGUT;Potensi kehilangan PNBP dari restitusi Value Added Tax (VAT) karena proses pengajuan melebihi batas waktu atau ketidaklengkapan dokumen ;76461452
-68;2022;11;011  KEMENTERIAN LUAR NEGERI;KBRI Bangkok;403290;TIDAK DIPUNGUT;Potensi kehilangan PNBP dari restitusi Value Added Tax (VAT) karena proses pengajuan melebihi batas waktu atau ketidaklengkapan dokumen ;17560075
-69;2022;11;011  KEMENTERIAN LUAR NEGERI;KBRI Berlin;403341;TIDAK DIPUNGUT;Potensi kehilangan PNBP dari restitusi Value Added Tax (VAT) karena proses pengajuan melebihi batas waktu atau ketidaklengkapan dokumen ;360146647
+PNBP Penggunaan Perairan dari Koperasi Gerbang Petani Mandiri tahun 2022";21600000;
+55;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Banten;413670;KURANG PUNGUT;Hasil pemeriksaan menunjukkan bahwa terdapat sembilan TUKS yang belum melakukan pembayaran PNBP Penggunaan Perairan;471080500;
+56;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Dumai;413092;KURANG PUNGUT;Kekurangan penerimaan atas kesalahan klasifikasi pengenaan rambu yang seharusnya;14172953;
+57;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Banten;413670;KURANG PUNGUT;Kekurangan penerimaan atas kesalahan klasifikasi pengenaan rambu yang seharusnya;61449283;
+58;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Dumai;413092;KURANG PUNGUT;Kekurangan penerimaan atas kapal yang waktu kedatangan dan waktu berangkatnya lebih dari 30 hari namun hanya dipungut Jasa Uang Rambu satu kali;10515420;
+59;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Tanjung Balai Karimun;413180;KURANG PUNGUT;Kekurangan penerimaan atas kapal yang waktu kedatangan dan waktu berangkatnya lebih dari 30 hari namun hanya dipungut Jasa Uang Rambu satu kali;10815750;
+60;2022;22;022  KEMENTERIAN PERHUBUNGAN;KSOP Kelas I Banten ;413670;KURANG PUNGUT;Kekurangan penerimaan atas kapal yang waktu kedatangan dan waktu berangkatnya lebih dari 30 hari namun hanya dipungut Jasa Uang Rambu satu kali;397352764;
+61;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Dumai;413092;KURANG PUNGUT;Kekurangan penerimaan atas kapal RPK liner;13540500;
+62;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Tanjung Balai Karimun;413180;KURANG PUNGUT;Kekurangan penerimaan atas kapal RPK liner;48455000;
+63;2022;22;022  KEMENTERIAN PERHUBUNGAN;KSU Belawan;413417;KURANG PUNGUT;Kekurangan penerimaan atas kapal RPK liner;145134750;
+64;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Banten;413670;KURANG PUNGUT;Kekurangan penerimaan pada Kantor KSOP Kelas I Banten atas kapal RPK tramper;354365500;
+65;2022;32;032  KEMENTERIAN KELAUTAN DAN PERIKANAN;Ditjen Perikanan Tangkap;238720;KURANG PUNGUT;Pengelolaan Pendapatan Perikanan pada Ditjen Perikanan Tangkap Belum Memadai dan Terdapat Kekurangan Penerimaan.;290803170;
+66;2022;18;018  KEMENTERIAN PERTANIAN;BBPT Padi Sukamandi;237238;KURANG PUNGUT;Biaya pengusahaan air baku tahun 2020 - 2022 belum ditagihkan kepada mitra pengelola lahan sebesar Rp483.570.390,00 ;483570390;
+67;2022;11;011  KEMENTERIAN LUAR NEGERI;KBRI Brussels;403350;TIDAK DIPUNGUT;Potensi kehilangan PNBP dari restitusi Value Added Tax (VAT) karena proses pengajuan melebihi batas waktu atau ketidaklengkapan dokumen ;76461452;
+68;2022;11;011  KEMENTERIAN LUAR NEGERI;KBRI Bangkok;403290;TIDAK DIPUNGUT;Potensi kehilangan PNBP dari restitusi Value Added Tax (VAT) karena proses pengajuan melebihi batas waktu atau ketidaklengkapan dokumen ;17560075;
+69;2022;11;011  KEMENTERIAN LUAR NEGERI;KBRI Berlin;403341;TIDAK DIPUNGUT;Potensi kehilangan PNBP dari restitusi Value Added Tax (VAT) karena proses pengajuan melebihi batas waktu atau ketidaklengkapan dokumen ;360146647;
 70;2022;64;064  LEMBAGA KETAHANAN NASIONAL;lemhanas;632505;TIDAK DIPUNGUT;"Terdapat Potensi Kehilangan Pendapatan atas Sewa Tanah, Gedung, dan
 Bangunan atas 17 Objek PNBP pada Lemhannas RI TA 2022 Sebesar
-Rp83.603.055,26";83603055
+Rp83.603.055,26";83603055;
 71;2022;64;064  LEMBAGA KETAHANAN NASIONAL;lemhanas;632505;TIDAK DIPUNGUT;"Terdapat Potensi Kehilangan Pendapatan atas Sewa Tanah, Gedung, dan
 Bangunan atas Penggunaan/Pemanfaatan Ruang Kerja oleh Ikatan Alumni
-Lemhannas RI Sebesar Rp355.677.753,50";355677754
-72;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Banten;413670;TIDAK DIPUNGUT;Terdapat Jasa Uang Rambu dua kapal trayek tramper yang belum dipungut pada Kantor KSOP Kelas I Banten;54365500
+Lemhannas RI Sebesar Rp355.677.753,50";355677754;
+72;2022;22;022  KEMENTERIAN PERHUBUNGAN;Kantor KSOP Kelas I Banten;413670;TIDAK DIPUNGUT;Terdapat Jasa Uang Rambu dua kapal trayek tramper yang belum dipungut pada Kantor KSOP Kelas I Banten;54365500;
 73;2022;22;022  KEMENTERIAN PERHUBUNGAN;Direktorat Bandar Udara (DBU) Ditjen Perhubungan Udara ;288042;TIDAK DIPUNGUT;"Perjanjian Konsesi antara Ditjen Perhubungan Udara dengan PT Angkasa Pura (AP) I dan PT AP II Belum Dapat Disepakati serta Terdapat Denda Keterlambatan Pembayaran Konsesi Jasa Kebandarudaraan yang Belum Dikenakan.
 Kekurangan perhitungan denda keterlambatan pembayaran pokok konsesi tahun 2017 sebesar Rp112.319.478.191 dalam Laporan Keuangan Tahun 2022 yang terdiri dari: 
 1) PT AP I sebesar Rp52.096.095.011; dan
 2) PT AP II sebesar Rp60.223.383.180. 
 b. Potensi hilangnya PNBP konsesi jasa kebandarudaraan tahun 2018 s.d. 2022.
-";112319000000
-74;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Polda Papua Barat;473018;TIDAK DIPUNGUT;Penerbitan STCK oleh Ditlantas Polda Papua Barat Tahun 2022;28125000
-75;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Polda Papua Barat;473018;TIDAK DIPUNGUT;Penerbitan SKUKP oleh Satlantas Polresta Manokwari;65700000
+";112319478191;
+74;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Polda Papua Barat;473018;TIDAK DIPUNGUT;Penerbitan STCK oleh Ditlantas Polda Papua Barat Tahun 2022;28125000;
+75;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Polda Papua Barat;473018;TIDAK DIPUNGUT;Penerbitan SKUKP oleh Satlantas Polresta Manokwari;65700000;
 76;2022;78;078  PUSAT PELAPORAN DAN ANALISIS TRANSAKSI KEUANGAN (PPATK);"Deputi Bidang
 Pelaporan dan Pengawasan Kepatuhan ";453374;TIDAK DIPUNGUT;"Pengenaan Sanksi Administratif atas Pelanggaran Kewajiban Pelaporan dari
 Pihak Pelapor Belum Sepenuhnya Diterapkan oleh PPATK, sehingga PPATK kehilangan kesempatan untuk memperoleh PNBP yang berasal dari denda
-administratifpelanggaran kewajiban pelaporan dari Pihak Pelapor";0
+administratifpelanggaran kewajiban pelaporan dari Pihak Pelapor";0;
 77;2022;32;032  KEMENTERIAN KELAUTAN DAN PERIKANAN;Ditjen PDSPKP ;622131;TIDAK DIPUNGUT;"PNBP atas Sewa BMN oleh Ditjen PDSPKP kepada PT PI (Persero) tidak
-sesuai ketentuan dan belum dibayar senilai Rp740.348.678,00";740348678
+sesuai ketentuan dan belum dibayar senilai Rp740.348.678,00";740348678;
 78;2022;32;032  KEMENTERIAN KELAUTAN DAN PERIKANAN;PPS Kendari;537695;TIDAK DIPUNGUT;"PNBP Penggunaan Sarana Prasarana pada PPS Kendari dan denda
-keterlambatan belum dibayar senilai ";389665404
+keterlambatan belum dibayar senilai ";389665404;
 79;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Biro Umum Sekretariat Jenderal;898004;TIDAK DIPUNGUT;"a. Pemanfaatan Ruangan oleh Dharma Wanita Persatuan Kementerian PUPR Belum Dilengkapi dengan Keputusan Kepala Biro Umum dan Perjanjian SewaMenyewa
-b. Pemanfaatan Ruang untuk Penyewa-Kegiatan Sosial yang Belum Dikenakan Sewa";0
-80;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Direktorat Kelembagaan dan Sumber Daya Konstruksi ;279856;TIDAK DIPUNGUT;Dua Sertifikat Standar KP BUJKA yang Terbit Tanpa Pembayaran PNBP ehingga, terdapat potensi kekurangan penerimaan atas empat sertifikat standar yang terbit tanpa dilakukan pembayaran PNBP sebesar USD40,000.00 (4 x USD10,000.00);0
-81;;118;118  BADAN PENGUSAHAAN KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS SABANG;;683499;TIDAK DIPUNGUT;Potensi penerimaan PNBP yang belum dipungut oleh BPKS sebesar Rp1.326.139.950,00 terdiri atas Jasa Pelayanan Pelabuhan Balohan Sabang sebesar Rp1.212.727.950,00, sewa ruang loket tiket sebesar Rp55.536.000,00 dan penempatan mesin anjungan tunai mandiri sebesar Rp57.876.000,00;1326139950
+b. Pemanfaatan Ruang untuk Penyewa-Kegiatan Sosial yang Belum Dikenakan Sewa";0;
+80;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Direktorat Kelembagaan dan Sumber Daya Konstruksi ;279856;TIDAK DIPUNGUT;Dua Sertifikat Standar KP BUJKA yang Terbit Tanpa Pembayaran PNBP ehingga, terdapat potensi kekurangan penerimaan atas empat sertifikat standar yang terbit tanpa dilakukan pembayaran PNBP sebesar USD40,000.00 (4 x USD10,000.00);0;
+81;;118;118  BADAN PENGUSAHAAN KAWASAN PERDAGANGAN BEBAS DAN PELABUHAN BEBAS SABANG;;683499;TIDAK DIPUNGUT;Potensi penerimaan PNBP yang belum dipungut oleh BPKS sebesar Rp1.326.139.950,00 terdiri atas Jasa Pelayanan Pelabuhan Balohan Sabang sebesar Rp1.212.727.950,00, sewa ruang loket tiket sebesar Rp55.536.000,00 dan penempatan mesin anjungan tunai mandiri sebesar Rp57.876.000,00;1326139950;
 82;2022;25;025  KEMENTERIAN AGAMA;UIN Ar-Raniry Banda Aceh;423925;DIGUNAKAN LANGSUNG;"penggunaan langsung pendapatan
-sewa gedung sport center ";97952424
-83;2022;25;025  KEMENTERIAN AGAMA;UIN Sunan Gunung Djati Bandung;423523;DIGUNAKAN LANGSUNG;"penerimaan dan pengeluaran MI menunjukkan adanya penggunaan langsung dari
-penerimaan untuk kegiatan operasional sebesar Rp233.524.000,00";233524000
-84;2022;25;025  KEMENTERIAN AGAMA;IAIN Syekh Nurjati Cirebon;423532;DIGUNAKAN LANGSUNG;"Pusat Pengembangan Bahasa: Data sertifikat
+sewa gedung sport center ";97952424;
+#REF!;2022;25;025  KEMENTERIAN AGAMA;UIN Sunan Gunung Djati Bandung;423523;DIGUNAKAN LANGSUNG;"penerimaan dan pengeluaran MI menunjukkan adanya penggunaan langsung dari
+penerimaan untuk kegiatan operasional sebesar Rp233.524.000,00";233524000;
+#REF!;2022;25;025  KEMENTERIAN AGAMA;IAIN Syekh Nurjati Cirebon;423532;DIGUNAKAN LANGSUNG;"Pusat Pengembangan Bahasa: Data sertifikat
 yang terbit selama tahun 2022 sebanyak 241 sertifikat TOAFL dan 181 sertifikat
 TOEFL yang terbit dengan nilai penerimaan sedikitnya Rp63.300.000,00.
 Penerimaan dari biaya tes tersebut tidak disetorkan dan tidak dilaporkan ke
@@ -155,83 +155,83 @@ operasional.
 Day Care:  Berdasarkan pembukuan tahun 2022, terdapat penerimaan yang digunakan langsung sebesar Rp55.119.000,00 untuk
 operasional daycare. Belum terdapat pedoman pengelolaan atas penerimaan dan pengeluaran daycare, sehingga daycare belum pernah melaporkan
 penerimaannya kepada bendahara penerimaan/pusat bisnis sebagai penerimaan
-BLU.";118419000
-85;2022;25;025  KEMENTERIAN AGAMA;UIN Sultan Maulana Hasanuddin Banten;423548;DIGUNAKAN LANGSUNG;"penggunaan langsung atas PNBP yang berasal dari
+BLU.";118419000;
+#REF!;2022;25;025  KEMENTERIAN AGAMA;UIN Sultan Maulana Hasanuddin Banten;423548;DIGUNAKAN LANGSUNG;"penggunaan langsung atas PNBP yang berasal dari
 pelayanan TOAFL di Pusat Bahasa untuk operasional penyelenggaraan TOAFL
-sebesar Rp13.815.000,00";13815000
-86;2022;25;025  KEMENTERIAN AGAMA;UIN Sultan Syarif Kasim Riau;424157;DIGUNAKAN LANGSUNG;"terdapat penerimaan dari penyelenggaraan ujian bahasa (TOEFL dan
+sebesar Rp13.815.000,00";13815000;
+#REF!;2022;25;025  KEMENTERIAN AGAMA;UIN Sultan Syarif Kasim Riau;424157;DIGUNAKAN LANGSUNG;"terdapat penerimaan dari penyelenggaraan ujian bahasa (TOEFL dan
 TOAFL) yang dilaksanakan pada tahun 2022 tidak dilaporkan dan disetorkan ke
 rekening penerimaan BLU sebesar Rp25.400.000,00 yang digunakan untuk
-menalangi kegiatan Program Persiapan Studi Lanjut (PPSL) S3";25400000
-87;2022;25;025  KEMENTERIAN AGAMA;UIN Sunan Ampel Surabaya;423770;DIGUNAKAN LANGSUNG;"Pendapatan yang diperoleh dari pengelolaan bisnis
+menalangi kegiatan Program Persiapan Studi Lanjut (PPSL) S3";25400000;
+#REF!;2022;25;025  KEMENTERIAN AGAMA;UIN Sunan Ampel Surabaya;423770;DIGUNAKAN LANGSUNG;"Pendapatan yang diperoleh dari pengelolaan bisnis
 tersebut tidak dilaporkan melalui mekanisme pengesahan (digunakan langsung) dan
-pengeluarannya tidak dianggarkan dalam RBA";0
-88;2022;25;025  KEMENTERIAN AGAMA;UIN Sunan Kalijaga Yogyakarta;423755;DIGUNAKAN LANGSUNG;"Pendapatan yang diperoleh dari pengelolaan bisnis tidak dilaporkan melalui
+pengeluarannya tidak dianggarkan dalam RBA";;
+#REF!;2022;25;025  KEMENTERIAN AGAMA;UIN Sunan Kalijaga Yogyakarta;423755;DIGUNAKAN LANGSUNG;"Pendapatan yang diperoleh dari pengelolaan bisnis tidak dilaporkan melalui
 mekanisme pengesahan (digunakan langsung) dan pengeluarannya tidak
-dianggarkan dalam RBA";0
-89;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Jawa Tengah;679588;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;2428400000
-90;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Kalimantan Timur;679791;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;481881000
-91;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Sulawesi Utara;679813;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;785568000
-92;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Papua Barat;473017;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;479808000
-93;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Sulawesi Tengah;679834;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;249175000
-94;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Aceh;679326;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;643860000
-95;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Metro Jaya;650971;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;5164263200
-96;2022;22;022  KEMENTERIAN PERHUBUNGAN;KSOP Kelas I Tanjung Balai Karimun;413180;TANPA DASAR HUKUM;Hasil pemeriksaan atas perjanjian konsesi dengan PT APS dan dokumen pendukung lainnya diketahui terdapat PNBP jasa konsesi PT APS sebesar Rp1.355.191.754,00 yang di antaranya terdapat pendapatan STS Sharing Profit sebesar Rp94.863.423,00 (periode bulan Juli s.d. November 2022) yang tidak diatur dalam perjanjian konsesi;4863423
-97;2022;22;022  KEMENTERIAN PERHUBUNGAN;KSOP Kelas IV Meulaboh;412998;TANPA DASAR HUKUM;KSOP Kelas IV Meulaboh tahun 2022 memungut PNBP Jasa Kepelabuhanan STS dari PT MB sebesar Rp9.433.858.500,00 dan PT PLN (Persero) sebesar Rp299.419.243,00 dengan total keseluruhan sebesar Rp9.733.277.743,00. PNBP alih muat/STS tersebut dipungut atas kegiatan yang dilakukan di luar lokasi yang diperjanjikan dan tidak ditindaklanjuti dengan izin serta perubahan perjanjian penggunaan perairan pada terminal khusus PT MB dan PT PLN (Persero);9733277743
-98;2022;22;022  KEMENTERIAN PERHUBUNGAN;Ditjen Perhubungan Udara - UPBU Mutiara Sis Al-Jufri;288401;TANPA DASAR HUKUM;"a. Sebanyak 47 mitra penyewa memiliki perjanjian sewa namun belum didukung dengan denah/layout dan lokasi yang disewakan. Selain itu, dua dari 47 mitra penyewa diperlukan adendum perjanjian karena perubahan lokasi dan luasan aset yang disewa; dan 
-b) Sebanyak 15 mitra penyewa belum memiliki perjanjian sewa pemanfaatan.";819698835
-99;2022;22;022  KEMENTERIAN PERHUBUNGAN;"UPBU Mozes Ditjen Perhubungan Udara - Kilangin Timika
-";466272;TANPA DASAR HUKUM;terdapat penyewaan hanggar pesawat dan Flight Operation (FLOPS) Center and Maintenance yang disewakan kepada airlines oleh Pemkab Mimika, sementara atas tanah tersebut telah dihibahkan kepada UPBU Mozes sehingga UPBU Mozes Kilangin Timika tidak dapat memungut PNBP atas pemanfaatan lahan tersebut. Penelusuran lebih lanjut diketahui bahwa sewa tersebut tidak didukung dengan perjanjian sewa maupun perjanjian kerja sama konsesi dan tidak ada tarif PNBP-nya. ;0
-100;2022;86;086  LEMBAGA ADMINISTRASI NEGARA;LAN Jakarta;450417;TANPA DASAR HUKUM;"
+dianggarkan dalam RBA";;
+#REF!;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Jawa Tengah;679588;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;2428400000;
+#REF!;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Kalimantan Timur;679791;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;481881000;
+#REF!;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Sulawesi Utara;679813;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;785568000;
+#REF!;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Papua Barat;473017;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;479808000;
+#REF!;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Sulawesi Tengah;679834;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;249175000;
+#REF!;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Aceh;679326;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;643860000;
+#REF!;2022;60;060  KEPOLISIAN NEGARA REPUBLIK INDONESIA;Metro Jaya;650971;DIGUNAKAN LANGSUNG;Bank Indonesia melakukan pembayaran secara langsung kepada personel Brimob Polda setempat secara tunai paling lambat tanggal 15 bulan berikutnya setelah pelaksanaan pengamanan dan pengawalan BI selesai. ;5164263200;
+#REF!;2022;22;022  KEMENTERIAN PERHUBUNGAN;KSOP Kelas I Tanjung Balai Karimun;413180;TANPA DASAR HUKUM;Hasil pemeriksaan atas perjanjian konsesi dengan PT APS dan dokumen pendukung lainnya diketahui terdapat PNBP jasa konsesi PT APS sebesar Rp1.355.191.754,00 yang di antaranya terdapat pendapatan STS Sharing Profit sebesar Rp94.863.423,00 (periode bulan Juli s.d. November 2022) yang tidak diatur dalam perjanjian konsesi;4863423;
+#REF!;2022;22;022  KEMENTERIAN PERHUBUNGAN;KSOP Kelas IV Meulaboh;412998;TANPA DASAR HUKUM;KSOP Kelas IV Meulaboh tahun 2022 memungut PNBP Jasa Kepelabuhanan STS dari PT MB sebesar Rp9.433.858.500,00 dan PT PLN (Persero) sebesar Rp299.419.243,00 dengan total keseluruhan sebesar Rp9.733.277.743,00. PNBP alih muat/STS tersebut dipungut atas kegiatan yang dilakukan di luar lokasi yang diperjanjikan dan tidak ditindaklanjuti dengan izin serta perubahan perjanjian penggunaan perairan pada terminal khusus PT MB dan PT PLN (Persero);9733277743;
+#REF!;2022;22;022  KEMENTERIAN PERHUBUNGAN;Ditjen Perhubungan Udara - UPBU Mutiara Sis Al-Jufri;288401;TANPA DASAR HUKUM;"a. Sebanyak 47 mitra penyewa memiliki perjanjian sewa namun belum didukung dengan denah/layout dan lokasi yang disewakan. Selain itu, dua dari 47 mitra penyewa diperlukan adendum perjanjian karena perubahan lokasi dan luasan aset yang disewa; dan 
+b) Sebanyak 15 mitra penyewa belum memiliki perjanjian sewa pemanfaatan.";819698835;
+#REF!;2022;22;022  KEMENTERIAN PERHUBUNGAN;"UPBU Mozes Ditjen Perhubungan Udara - Kilangin Timika
+";466272;TANPA DASAR HUKUM;terdapat penyewaan hanggar pesawat dan Flight Operation (FLOPS) Center and Maintenance yang disewakan kepada airlines oleh Pemkab Mimika, sementara atas tanah tersebut telah dihibahkan kepada UPBU Mozes sehingga UPBU Mozes Kilangin Timika tidak dapat memungut PNBP atas pemanfaatan lahan tersebut. Penelusuran lebih lanjut diketahui bahwa sewa tersebut tidak didukung dengan perjanjian sewa maupun perjanjian kerja sama konsesi dan tidak ada tarif PNBP-nya. ;0;
+#REF!;2022;86;086  LEMBAGA ADMINISTRASI NEGARA;LAN Jakarta;450417;TANPA DASAR HUKUM;"
 a. Perpanjangan Perjanjian Sewa antara LAN Jakarta dengan PT BRI
 (Persero) Tbk Terlambat Dibuat
 b. Dasar Perhitungan Tarif Sewa ATM BRI Tidak Tepat 
 c. Tarif Sewa ATM BRI Tahun 2021 dan 2022 Tidak Melalui Penetapan
 dari KPKNL Jakarta II DJKN Kementerian Keuangan
- ";0
-101;2022;86;086  LEMBAGA ADMINISTRASI NEGARA; STIA LAN Jakarta;662621;TANPA DASAR HUKUM;"Belum Ada Penetapan Tarif Sewa dari KPKNL dan Pendapatan Sewa
-Tahun 2020 s.d. 2022 Terlambat Diterima";0
-102;2022;40;040  KEMENTERIAN PARIWISATA DAN EKONOMI KREATIF/BADAN PARIWISATA DAN EKONOMI KREATIF;Politeknik Pariwisata Medan;538872;TANPA DASAR HUKUM;Penerimaan Negara Bukan Pajak dari Penyelenggaraan Pendidikan Program Magister (S2) pada Politeknik Pariwisata Medan Sebesar Rp316.900.000 Belum Memiliki Dasar Hukum Memadai ;0
-103;2022;6;006  KEJAKSAAN REPUBLIK INDONESIA;"Kejati Sulawesi
-Tenggara";8416;TANPA DASAR HUKUM;Sewa Bangunan yang Belum Mendapatkan Persetujuan KPKNL;2100000
-104;2022;6;006  KEJAKSAAN REPUBLIK INDONESIA;Kejari Kendari;8420;TANPA DASAR HUKUM;Sewa Bangunan yang Belum Mendapatkan Persetujuan KPKNL;0
-105;2022;6;006  KEJAKSAAN REPUBLIK INDONESIA;"Kejati Sulawesi
-Utara";7783;TANPA DASAR HUKUM;Sewa Bangunan yang Belum Mendapatkan Persetujuan KPKNL;0
-106;2022;5;005  MAHKAMAH AGUNG;Mahkamah Syariah (MS) Aceh ;401582;TANPA DASAR HUKUM;"berupa sewa Anjungan Tunai Mandiri
+ ";0;
+#REF!;2022;86;086  LEMBAGA ADMINISTRASI NEGARA; STIA LAN Jakarta;662621;TANPA DASAR HUKUM;"Belum Ada Penetapan Tarif Sewa dari KPKNL dan Pendapatan Sewa
+Tahun 2020 s.d. 2022 Terlambat Diterima";0;
+#REF!;2022;40;040  KEMENTERIAN PARIWISATA DAN EKONOMI KREATIF/BADAN PARIWISATA DAN EKONOMI KREATIF;Politeknik Pariwisata Medan;538872;TANPA DASAR HUKUM;Penerimaan Negara Bukan Pajak dari Penyelenggaraan Pendidikan Program Magister (S2) pada Politeknik Pariwisata Medan Sebesar Rp316.900.000 Belum Memiliki Dasar Hukum Memadai ;0;
+#REF!;2022;6;006  KEJAKSAAN REPUBLIK INDONESIA;"Kejati Sulawesi
+Tenggara";008416;TANPA DASAR HUKUM;Sewa Bangunan yang Belum Mendapatkan Persetujuan KPKNL;2100000;
+#REF!;2022;6;006  KEJAKSAAN REPUBLIK INDONESIA;Kejari Kendari;008420;TANPA DASAR HUKUM;Sewa Bangunan yang Belum Mendapatkan Persetujuan KPKNL;0;
+#REF!;2022;6;006  KEJAKSAAN REPUBLIK INDONESIA;"Kejati Sulawesi
+Utara";007783;TANPA DASAR HUKUM;Sewa Bangunan yang Belum Mendapatkan Persetujuan KPKNL;0;
+#REF!;2022;5;005  MAHKAMAH AGUNG;Mahkamah Syariah (MS) Aceh ;401582;TANPA DASAR HUKUM;"berupa sewa Anjungan Tunai Mandiri
 (ATM) dengan PT Bank Aceh Syariah dan kantin Maqshaf Syar’I
 Atas sewa ATM PT Bank Aceh telah dilakukan penyetoran PNBP sebesar
 Rp45.000.000 tanggal 25 Juni 2021 untuk jangka waktu 1 Mei 2021 s.d.
-30 April 2024. ";45000000
-107;2022;5;005  MAHKAMAH AGUNG;PN Jakarta Pusat ;99063;TANPA DASAR HUKUM;"PN Jakarta Pusat berupa sewa Base Transceiver Station (BTS) Storvanet
+30 April 2024. ";45000000;
+#REF!;2022;5;005  MAHKAMAH AGUNG;PN Jakarta Pusat ;099063;TANPA DASAR HUKUM;"PN Jakarta Pusat berupa sewa Base Transceiver Station (BTS) Storvanet
 Nilai sewa dalam perjanjian sewa dihitung sendiri oleh PN Jakarta Pusat
 sebesar Rp18.900.000 per tahun dan telah disetorkan sebesar
 Rp56.700.000 (untuk periode sewa 1 Oktober 2021 s.d. 30 September
-2024) pada tanggal 19 Januari 2023.";56700000
-108;2022;5;005  MAHKAMAH AGUNG;PN Jakarta Barat;99064;TANPA DASAR HUKUM;"berupa sewa Kantin FY, Warung AJ, Warung PCB, ATM
+2024) pada tanggal 19 Januari 2023.";56700000;
+#REF!;2022;5;005  MAHKAMAH AGUNG;PN Jakarta Barat;099064;TANPA DASAR HUKUM;"berupa sewa Kantin FY, Warung AJ, Warung PCB, ATM
 BRI dan 3G Fotokopi
 Surat persetujuan KPKNL atas sewa-sewa tersebut berlaku untuk jangka
 waktu sewa satu tahun dan telah berakhir, namun belum diajukan
 permohonan persetujuan perpanjangan sewa ke KPKNL. Nilai sewa tahun
 2022 telah disetorkan berdasarkan nilai sewa persetujuan KPKNL
-sebelumnya.";0
-109;2022;5;005  MAHKAMAH AGUNG;PA Jakarta Pusat;99063;TANPA DASAR HUKUM;"Terdapat layanan PT BSI dan PT Pos Indonesia pada Pelayanan Terpadu
+sebelumnya.";0;
+#REF!;2022;5;005  MAHKAMAH AGUNG;PA Jakarta Pusat;099063;TANPA DASAR HUKUM;"Terdapat layanan PT BSI dan PT Pos Indonesia pada Pelayanan Terpadu
 Satu Pintu (PTSP) yang digunakan untuk keperluan pelayanan berperkara
-di PA Jakarta Pusat dan belum diajukan persetujuan sewa ke KPKNL";0
-110;2022;5;005  MAHKAMAH AGUNG;PN Malang;99152;TANPA DASAR HUKUM;"Terdapat penggunaan sebagian gedung dan bangunan oleh PT Pos
+di PA Jakarta Pusat dan belum diajukan persetujuan sewa ke KPKNL";0;
+#REF!;2022;5;005  MAHKAMAH AGUNG;PN Malang;099152;TANPA DASAR HUKUM;"Terdapat penggunaan sebagian gedung dan bangunan oleh PT Pos
 Indonesia untuk keperluan pelayanan berperkara di PN Malang dan belum
-diajukan persetujuan sewa ke KPKNL";0
-111;2022;5;005  MAHKAMAH AGUNG;PN Kasongan;679426;TANPA DASAR HUKUM;"Terdapat penggunaan lahan untuk kantin dari bulan Januari s.d. September
+diajukan persetujuan sewa ke KPKNL";0;
+#REF!;2022;5;005  MAHKAMAH AGUNG;PN Kasongan;679426;TANPA DASAR HUKUM;"Terdapat penggunaan lahan untuk kantin dari bulan Januari s.d. September
 2022 dengan total nilai sewa sebesar Rp400.000. Surat persetujuan sewa
 dari KPKNL terbit tanggal 11 Juli 2022, namun Penyewa tidak
 melanjutkan sewa karena keberatan dengan nilai sewa sebesar
-Rp1.610.000/tahun";0
-112;2022;5;005  MAHKAMAH AGUNG;Sekretaris MA;4011;TANPA DASAR HUKUM;"Terdapat Kegiatan Sewa Tanah, Gedung, dan Bangunan yang Belum
+Rp1.610.000/tahun";0;
+#REF!;2022;5;005  MAHKAMAH AGUNG;Sekretaris MA;004011;TANPA DASAR HUKUM;"Terdapat Kegiatan Sewa Tanah, Gedung, dan Bangunan yang Belum
 Mempunyai Dasar Surat Keputusan (SK) Penetapan Pelaksanaan Sewa
-dari Sekretaris MA";0
-113;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Biro PBMN dan Biro Umum Sekretariat Jenderal;498488;TANPA DASAR HUKUM;"Tarif Pemanfaatan BMN pada Wisma Bima I dan II Belum Memiliki Dasar Penetapan
-";0
-114;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Politeknik PUPR di Tembalang;631187;TANPA DASAR HUKUM;"Belum Terdapat Penetapan Tarif PNBP atas Pemanfaatan Bangunan Asrama
-Dosen";0
-115;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Politeknik PUPR di Tembalang;631187;TANPA DASAR HUKUM;Belum Terdapat Penetapan Tarif PNBP atas Pemanfaatan Bangunan Asrama oleh mahasiswa;0
-116;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Politeknik PUPR di Soekarno - Hatta;631187;TANPA DASAR HUKUM;Belum ada sewa PNBP yang dikenakan atas pemanfaatan asrama mahasiswa di Soekarno - Hatta;0
-117;2022;18;018  KEMENTERIAN PERTANIAN;Balai Besar Pengujian Mutu dan Sertifikasi Obat Hewan (BBPMSOH);411962;TANPA DASAR HUKUM;Belum Ada Penetapan Tarif PNBP Penjualan Mencit pada BBPMSOH;300000000
+dari Sekretaris MA";0;
+#REF!;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Biro PBMN dan Biro Umum Sekretariat Jenderal;498488;TANPA DASAR HUKUM;"Tarif Pemanfaatan BMN pada Wisma Bima I dan II Belum Memiliki Dasar Penetapan
+";0;
+#REF!;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Politeknik PUPR di Tembalang;631187;TANPA DASAR HUKUM;"Belum Terdapat Penetapan Tarif PNBP atas Pemanfaatan Bangunan Asrama
+Dosen";0;
+#REF!;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Politeknik PUPR di Tembalang;631187;TANPA DASAR HUKUM;Belum Terdapat Penetapan Tarif PNBP atas Pemanfaatan Bangunan Asrama oleh mahasiswa;0;
+#REF!;2022;33;033  KEMENTERIAN PEKERJAAN UMUM DAN PERUMAHAN RAKYAT;Politeknik PUPR di Soekarno - Hatta;631187;TANPA DASAR HUKUM;Belum ada sewa PNBP yang dikenakan atas pemanfaatan asrama mahasiswa di Soekarno - Hatta;0;
+#REF!;2022;18;018  KEMENTERIAN PERTANIAN;Balai Besar Pengujian Mutu dan Sertifikasi Obat Hewan (BBPMSOH);411962;TANPA DASAR HUKUM;Belum Ada Penetapan Tarif PNBP Penjualan Mencit pada BBPMSOH;300000000;
